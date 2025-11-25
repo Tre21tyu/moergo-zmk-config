@@ -1,0 +1,10 @@
+# Build files
+build/
+*.uf2
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
